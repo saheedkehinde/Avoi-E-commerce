@@ -1,0 +1,9 @@
+
+==================================================
+EMAIL SENT: 2025-07-15 09:48:15
+To: test@example.com
+Subject: Welcome to AVOI - Your Skincare Journey Begins! 🌟
+HTML Content Length: 4864 characters
+Text Content Length: 1027 characters
+Status: DELIVERED
+==================================================
